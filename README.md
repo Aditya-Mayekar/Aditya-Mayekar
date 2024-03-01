@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Aditya Mayekar</h1>
-<h3 align="center">A aspiring developer from India</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<h1 align="center">Hi, I'm Aditya Mayekar<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;</h1>
+<h3 align="center">An aspiring developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-mayekar&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-mayekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-mayekar" alt="aditya-mayekar" /></a> </p>
-
-- 🔭 I’m currently working on **developing my skills to bring out my true potential.**
+- 🔭 I’m currently working on developing my skills.
 
 - 🌱 I’m currently learning **Java and Python**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aditya-v-mayekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-v-mayekar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/adityamayekar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityamayekar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityamayekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adityamayekar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
