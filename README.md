@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h1 align="center">Hi, I'm Aditya Vivek Mayekar<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="45">&nbsp;</h1>
 <h1> 💫 About Me:<br> </h1>
-🔭 I’m currently working on developing my skills! <br>🌱 I’m currently learning Java<br>📫 How to reach me- adityamayekar027@gmail.com<br>⚡ Fun fact- I love sleeping😴
+<b>🔭 I’m currently working on developing my skills! <br>🌱 I’m currently learning Java<br>📫 How to reach me- adityamayekar027@gmail.com<br>⚡ Fun fact- I love sleeping😴</b>
 
 
 ## 🌐 Socials and Coding Platform Links:
